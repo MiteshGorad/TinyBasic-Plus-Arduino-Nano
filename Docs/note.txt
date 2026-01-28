@@ -1,0 +1,2 @@
+https://www.tinybasic.de/index.html
+This is the fist reference/resource that inspired me to recreate and build my own version.
